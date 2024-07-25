@@ -1,0 +1,13 @@
+body{
+    background-color: #383D58;
+    color: white;
+}
+.cabeçalho{
+    background-color: #383D58;
+    color: white;
+    display: flex;
+}
+justify-content: space-around;
+img.cabeçalho-imagem{
+    alurastart logo 1.png    
+}
